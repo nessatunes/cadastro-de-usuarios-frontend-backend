@@ -2,8 +2,8 @@
 
 Frontend do projeto CRUD no node.js
 
-![Foto](src/assets/foto1.png)
-![Foto](src/assets/foto2.png)
+![Foto](https://github.com/nessatunes/cadastro-de-usuarios-frontend-backend/blob/main/cadastro-usuarios-front/src/assets/foto1.png)
+![Foto](https://github.com/nessatunes/cadastro-de-usuarios-frontend-backend/blob/main/cadastro-usuarios-front/src/assets/foto2.png)
 
 ## Este projeto foi construído usando as seguintes dependências:
 
